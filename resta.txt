@@ -1,0 +1,2 @@
+Funcion Resta
+Recibe dos numeros y realiza una resta
